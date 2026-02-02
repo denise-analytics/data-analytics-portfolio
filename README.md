@@ -25,7 +25,7 @@ Identificar padrões que determinam o sucesso de um jogo e apoiar decisões estr
 Python | Pandas | Matplotlib | Seaborn | SciPy | Jupyter Notebook
 
 🔗 **Repositório do projeto:**  
-[https://github.com/denise-analytics/denise-analytics  ](https://github.com/denise-analytics/sprint6_game_sales_analysis)
+https://github.com/denise-analytics/sprint6_game_sales_analysis
 
 📄 **Relatório em PDF (ideal para recrutadores):**  
 Disponível dentro do repositório
